@@ -5,5 +5,5 @@
     { "key": 3, "message": "Post 3", "type": "error" }
   ],
   "disableNotifications": false,
-  "disablePolling": false,
+  "disablePolling": false
 }
